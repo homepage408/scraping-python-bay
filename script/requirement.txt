@@ -1,0 +1,5 @@
+python3.8
+urllib
+bs4
+pandas
+jupyter-lab
